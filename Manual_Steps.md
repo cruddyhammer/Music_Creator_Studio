@@ -1,6 +1,7 @@
 Manual Steps (For Francisco Only, agent ignore):
 
 
+
 **GitHub**
 
 1. Create a new GitHub account (separate from your MRE account)
